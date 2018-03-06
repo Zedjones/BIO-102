@@ -59,18 +59,19 @@
    - Contract during inhalation, relax during exhalation
    - Located between the ribs 
   - [ ] Lungs
-   - Located on both sides of the chest 
+   - Located on both sides of the chest
+   - Has branching bronchi within it 
    - Gas exchange with the outside air, takes in O2 to the blood and outputs
      CO2
-  - [ ] Nasal Cavity
+  - [X] Nasal Cavity
    - Warms, moisturrizes, and filters air entering the body before it reaches
      the lungs 
-   - Located within the nose, lined with hairs 
+   - Located within the nose, lined with hairs
   - [ ] Pharynx
    - The membrane-lined cavity behind nose and mouth, connecting them to the
      esophagus 
-  - [ ] Glottis
-   - Opening which leads to the larynx, covered by the epiglottis 
+  - [X] Glottis
+   - Opening which leads to the larynx, covered by the epiglottis
   - [ ] Larynx
    - The muscular organ forming an air passage to the lungs; the voice box
   - [ ] Trachea
@@ -84,11 +85,42 @@
   - [ ] Goblet Cells
    - Located in the respiratory and intestinal tracts, secrete the main
      component of mucus.
-  - [ ] Pseudostratified Ciliated Columnar Epithelium 
+  - [ ] Pseudostratified Ciliated Columnar Epithelium
+   - Tissues which have goblet cells on them, located in the nasal cavity,
+     trachea, bronchi, and bronchioles
   - [ ] Diaphragm
    - Separates the thorax from the abdomen, assists in lung contraction and
      expansion. 
    - Contract during inhalation, relax during exhalation
+** Cardiovascular System
+  - [ ] Bicuspid vs Tricuspid Valves 
+   - Bicuspid has two flaps (between left atrium and ventricle)
+   - Tricuspid has three flaps (between right atrium and ventricle)
+  - [ ] Blood Vessels - Tissues
+  - [ ] Flow of blood through the body
+   - Superior Vena Cava ->  Right Atrium -> Right Ventricle -> Pulmonary
+     Artery -> Lungs -> Pulmonary Vein -> Left Atrium -> Left Ventricle ->
+     Aorta -> Arteries -> Arterioles -> Capillaries -> Venules -> Veins     
+  - [ ] Left Atrium
+   - Holding chamber for blood coming from the heart, goes through bicuspid
+     valve to get to left ventricle 
+  - [ ] Right Atrium
+   - Holding chamber for blood coming from the body, goes through tricuspid
+     valve to get to right ventricle 
+  - [ ] Left Ventricle
+   - Pumps blood through the aortic valve (semilunar) into the aorta
+  - [ ] Right Ventricle
+   - Pumps blood through the pulmonary valve (semilunar) through the pulmonary artery to
+     the lungs 
+  - [X] Aorta
+   - Largest artery in the blood, located above the left ventricle and
+     supplies oxygenated blood to the body
+  - [X] Pulmonary Vein
+   - Carries oxygenated blood from the lungs to the left atrium of the heart
+  - [X] Pulmonary Artery
+   - Takes deoxygenated blood from the right ventricle to the lungs
+  - [X] Vena Cava
+   - Takes blood from the veins and sends it in to the right atrium
 * Labs to Review
  - [ ] Lab 1 - Respiratory System 
  - [ ] Lab 1 - Respiratory System Quiz
