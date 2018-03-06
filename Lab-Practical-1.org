@@ -23,7 +23,7 @@
   - Reagent which increases pH and helps certain enzymatic activity, such as
   trypsin
 ** Biuret Solution
-  -Used to test for the presence of proteins, is normally blue and turns
+  - Used to test for the presence of proteins, is normally blue and turns
   purple in the presence of peptide bonds (from proteins)
 ** Iodine
   - Used to test for the presence of starch, to determine whether digestion has
@@ -67,12 +67,23 @@
      the lungs 
    - Located within the nose, lined with hairs 
   - [ ] Pharynx
+   - The membrane-lined cavity behind nose and mouth, connecting them to the
+     esophagus 
   - [ ] Glottis
+   - Opening which leads to the larynx, covered by the epiglottis 
   - [ ] Larynx
+   - The muscular organ forming an air passage to the lungs; the voice box
   - [ ] Trachea
+   - The "windpipe", rigid with prominent cartilaginous rings
+   - Without these rings, it would collapse each time the pressure dropped 
   - [ ] Bronchi
+   - Air passage that diverge from the windpipe, located in the lungs 
   - [ ] Alveoli
+   - Tiny air sacs located at the end of bronchioles which allow for direct
+     diffusion (gas exchange)  
   - [ ] Goblet Cells
+   - Located in the respiratory and intestinal tracts, secrete the main
+     component of mucus.
   - [ ] Pseudostratified Ciliated Columnar Epithelium 
   - [ ] Diaphragm
    - Separates the thorax from the abdomen, assists in lung contraction and
