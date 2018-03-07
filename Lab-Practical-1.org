@@ -221,6 +221,6 @@
   - I don't have a copy of this
  - [ ] Lab 6 - Fetal Pig Dissection #2
 * Key Dissection Specimens to Know
-** Sheep Heart
-** Pig Kidney
-** Fetal Pig
+ - Sheep Heart 
+ - Pig Kidney
+ - Fetal Pig
