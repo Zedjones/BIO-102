@@ -145,28 +145,31 @@
   - [ ] Posterior 
    - Further back in position; of or nearer the rear or hind end
 *** Parts to Know
-   - [ ] Right and Left Atria
-   - [ ] Right and Left Ventricles 
-   - [ ] Heart  
-   - [ ] Pericardial Sac 
-   - [ ] Jugular Veins 
+   - [X] Right and Left Atria
+   - [X] Right and Left Ventricles
+   - [X] Heart
+   - [X] Pericardial Sac
+   - [X] Jugular Veins
+    - Four of these 
    - [ ] Carotid Arteries 
-   - [ ] Coronary Arteries  
-   - [ ] Superior and Inferior Vena Cava 
+   - [X] Coronary Arteries
+    - On the heart itself
+   - [ ] Superior Vena Cava 
+   - [X] Inferior Vena Cava
    - [ ] Pulmonary Trunk
-   - [ ] Pulmonary Artery 
-   - [ ] Pulmonary Vein 
-   - [ ] Aorta
-   - [ ] Aortic Arch 
+   - [X] Aorta
    - [X] Umbilical Cord
+   - [X] Glottis
+   - [X] Epiglottis
    - [ ] Larynx 
    - [ ] Trachea 
    - [ ] Pleural Cavity
    - [ ] Bronchi
-   - [ ] Lungs
+   - [X] Lungs
    - [ ] Diaphragm
-   - [ ] Hard Palate
-   - [ ] Soft Palate
+    - Structure directly beneath the lungs 
+   - [X] Hard Palate
+   - [X] Soft Palate
    - [ ] Thymus Gland 
    - [ ] Thyroid Gland
    - [ ] Peritonium
@@ -192,8 +195,9 @@
    - [ ] Urethra
    - [ ] Urinary Bladder
 **** Male
-    - [ ] Scrotal Sac
-    - [ ] Urogenital Opening 
+    - [X] Scrotal Sac
+    - [X] Urogenital Opening
+     - Right underneath umbilical cord for males
     - [ ] Penis
     - [ ] Testes
     - [ ] Epididymis
@@ -201,6 +205,8 @@
     - [ ] Genital Papillae
 **** Female
     - [ ] Mammary Papillae
+    - [X] Urogenital Papillae
+    - [X] Urogenital Opening
     - [ ] Ovaries
     - [ ] Oviducts
     - [ ] Horns of Uterus
@@ -214,7 +220,7 @@
  - [ ] Lab 3 - Digestive System Quiz
  - [ ] Lab 4 - Excretory System 
  - [ ] Lab 4 - Excretory System Quiz
- - [ ] Lab 5 - Fetal Pig Dissection  
+ - [X] Lab 5 - Fetal Pig Dissection
  - [ ] Lab 5 - Fetal Pig Dissection Quiz
   - I don't have a copy of this 
  - [ ] Lab 6 - Fetal Pig Dissection #2
