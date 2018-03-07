@@ -1,41 +1,41 @@
 * Key Reagents to Know
-  - [ ] Trypsin
-   - Aids in the digestion of proteins, produced in the pancreas 
+  - [X] Trypsin
+   - Aids in the digestion of proteins, produced in the pancreas
    - Further digestion of proteins after initial breakdown by pepsin
-  - [ ] Amylase
+  - [X] Amylase
    - Aids in the digestion of starch and glycogen, produed in the pancreas
    - Breaks them down into disaccharide maltose molecules
-  - [ ] Bile
+  - [X] Bile
    - Emulsifies lipids and is produced in the liver, stored in the gall blader
     - Emulsification is the breakdown of fat globules in the dueodenum into tiny
-    droplets, giving more surface area for lipase from the pancrease to work
+    droplets, giving more surface area for lipase from the pancreas to work
     on assisted by the bile salts
-  - [ ] Lipase
+  - [X] Lipase
    - Once lipids are emulsified, they are broken down into their subunits,
    which can be absorbed into the body, by lipase
-  - [ ] Gelatin
+  - [X] Gelatin
    - A protein that is capable of taking up large amounts of water, causing it
    to swell and form a Jell-O like substance
-  - [ ] Hydrochloric Acid
+  - [X] Hydrochloric Acid
    - Reagent which increases acidity and helps certain enzymatic activity, such
    as pepsin 
-  - [ ] Sodium Hydroxide
+  - [X] Sodium Hydroxide
    - Reagent which increases pH and helps certain enzymatic activity, such as
    trypsin
-  - [ ] Biuret Solution
+  - [X] Biuret Solution
    - Used to test for the presence of proteins, is normally blue and turns
    purple in the presence of peptide bonds (from proteins)
-  - [ ] Iodine
+  - [X] Iodin
    - Used to test for the presence of starch, to determine whether digestion has
    occurred. No starch digestion = golden-brown color, starch digestion =
    red-brown, blue, black
-  - [ ] Starch Solution
+  - [X] Starch Solution
    - In our lab, pancreatic extract which contains starch, a polysaccharide
-  - [ ] Phenolphthalein
+  - [X] Phenolphthalein
    - Used as a pH indicator, turns pink at pH 10. As digestion occurs and fatty
    acids are released, will become colorless, indicating that the solution is
    now only slightly basic (pH 8) 
-  - [ ] Benedict's Solution
+  - [X] Benedict's Solution
    - Used to test for the presence of maltose. No maltose = blue, small amount
    of maltose = greenish, moderate amount = yellowish, large amount = orange
    or reddish coloration 
@@ -44,16 +44,19 @@
   - [X] Lungs/Alveoli - Healthy and Unhealthy (Lymphoma, Carcinoma)
   - [X] Trachea (Pseudostratified Ciliated Columnar Epithelial Tissue)
 ** Circulatory System
-  - [ ] Blood (Human, Reptilian and Amphibian)
-  - [ ] Cardiac Muscle
-  - [ ] Veins and Arteries
-  - [ ] Ateriosclerosis 
+  - [X] Blood (Human, Reptilian and Amphibian)
+   - Reptilian blood is a bit lighter in pigment
+   - Mammalian red blood has less visible nucleus
+   - Mammalian white blood looks like it has multiple nuclei
+  - [X] Cardiac Muscle
+   - Involuntary, striated, look like red waves
+  - [X] Veins and Arteries
+  - [X] Ateriosclerosis
+   - Yellow plaque build-up on the outside of the artery
 ** Digestive and Excretory Systems
-  - [ ] Smooth Muscle
-  - [ ] Adipose Connective Tissue
-  - [ ] Small Intestine (Simple Columnar Epithelial Tissue) 
-  - [ ] Kidney (Cubodial Epithelial Tissue)
-   - Make sure to look over the parts of the kidney 
+  - [X] Small Intestine (Simple Columnar Epithelial Tissue)
+  - [X] Kidney (Cubodial Epithelial Tissue)
+   - Make sure to look over the parts of the kidney
 * Key Concepts
 ** Respiratory System
   - [X] Intercostal muscles
@@ -125,15 +128,15 @@
 ** Excretory-Urinary System
   - [X] 2 Major Functions
    - Filtering and processing waste and excreting waste
-  - [ ] Ureter
-   - Basic functional and structural unit of the kidney 
-  - [ ] Bladder
+  - [X] Ureter
+   - Basic functional and structural unit of the kidney
+  - [X] Bladder
    - A hollow, muscular, balloon-shaped organ that expands as it fills with
      urine 
-  - [ ] Kidney
+  - [X] Kidney
    - Filters blood to produce urine
-  - [ ] Urethra
-   - An opening through with urine empties at the the bottom of the bladder  
+  - [X] Urethra
+   - An opening through with urine empties at the the bottom of the bladder
 ** Fetal Pig Dissection
   - [X] Dorsal
    - The back of the pig, towards the back
@@ -215,14 +218,14 @@
     thin
  - [X] Lab 2 - Cardiovascular System
  - [X] Lab 2 - Cardiovascular System Quiz
- - [ ] Lab 3 - Digestive System 
- - [ ] Lab 3 - Digestive System Quiz
- - [ ] Lab 4 - Excretory System 
- - [ ] Lab 4 - Excretory System Quiz
+ - [X] Lab 3 - Digestive System
+ - [X] Lab 3 - Digestive System Quiz
+ - [X] Lab 4 - Excretory System
+ - [X] Lab 4 - Excretory System Quiz
  - [X] Lab 5 - Fetal Pig Dissection
  - [X] Lab 5 - Fetal Pig Dissection Quiz
   - I don't have a copy of this
- - [ ] Lab 6 - Fetal Pig Dissection #2
+ - [X] Lab 6 - Fetal Pig Dissection #2
 * Key Dissection Specimens to Know
  - Sheep Heart 
  - Pig Kidney
