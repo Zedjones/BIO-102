@@ -53,11 +53,12 @@
   - [ ] Adipose Connective Tissue
   - [ ] Small Intestine (Simple Columnar Epithelial Tissue) 
   - [ ] Kidney (Cubodial Epithelial Tissue)
+   - Make sure to look over the parts of the kidney 
 * Key Concepts
 ** Respiratory System
-  - [ ] Intercostal muscles
+  - [X] Intercostal muscles
    - Contract during inhalation, relax during exhalation
-   - Located between the ribs 
+   - Located between the ribs
   - [ ] Lungs
    - Located on both sides of the chest
    - Has branching bronchi within it 
@@ -121,6 +122,89 @@
    - Takes deoxygenated blood from the right ventricle to the lungs
   - [X] Vena Cava
    - Takes blood from the veins and sends it in to the right atrium
+** Excretory-Urinary System
+  - [ ] 2 Major Functions
+   - Filtering and processing waste and excreting waste 
+  - [ ] Ureter
+   - Basic functional and structural unit of the kidney 
+  - [ ] Bladder
+   - A hollow, muscular, balloon-shaped organ that expands as it fills with
+     urine 
+  - [ ] Kidney
+   - Filters blood to produce urine
+  - [ ] Urethra
+   - An opening through with urine empties at the the bottom of the bladder  
+** Fetal Pig Dissection
+  - [ ] Dorsal 
+   - The back of the pig, towards the back 
+  - [ ] Ventral
+   - The front of the pig, stomach side 
+  - [ ] Anterior 
+   - Nearer to the front, especially situated in the front of the body or
+     nearer the head   
+  - [ ] Posterior 
+   - Further back in position; of or nearer the rear or hind end
+*** Parts to Know
+   - [ ] Right and Left Atria
+   - [ ] Right and Left Ventricles 
+   - [ ] Heart  
+   - [ ] Pericardial Sac 
+   - [ ] Jugular Veins 
+   - [ ] Carotid Arteries 
+   - [ ] Coronary Arteries  
+   - [ ] Superior and Inferior Vena Cava 
+   - [ ] Pulmonary Trunk
+   - [ ] Pulmonary Artery 
+   - [ ] Pulmonary Vein 
+   - [ ] Aorta
+   - [ ] Aortic Arch 
+   - [X] Umbilical Cord
+   - [ ] Larynx 
+   - [ ] Trachea 
+   - [ ] Pleural Cavity
+   - [ ] Bronchi
+   - [ ] Lungs
+   - [ ] Diaphragm
+   - [ ] Hard Palate
+   - [ ] Soft Palate
+   - [ ] Thymus Gland 
+   - [ ] Thyroid Gland
+   - [ ] Peritonium
+    - Holds the kidneys in place 
+   - [ ] Hepatic Artery
+   - [ ] Hepatic Vein 
+   - [ ] Mesenteric Ateries
+   - [ ] Mesenteric Vein
+   - [ ] Renal Artery
+   - [ ] Renal Vein
+   - [ ] Celiac Artery 
+   - [ ] Celiac Vein 
+   - [ ] Spleen 
+   - [ ] Liver
+   - [ ] Stomach
+   - [ ] Small Intestine
+    - Duodenum, Jejunum, Ileum
+   - [ ] Gall Bladder
+   - [ ] Pancreas
+   - [ ] Mesentery
+   - [ ] Ureter
+   - [ ] Kidneys
+   - [ ] Urethra
+   - [ ] Urinary Bladder
+**** Male
+    - [ ] Scrotal Sac
+    - [ ] Urogenital Opening 
+    - [ ] Penis
+    - [ ] Testes
+    - [ ] Epididymis
+    - [ ] Spermatic Cord
+    - [ ] Genital Papillae
+**** Female
+    - [ ] Mammary Papillae
+    - [ ] Ovaries
+    - [ ] Oviducts
+    - [ ] Horns of Uterus
+    - [ ] Vagina 
 * Labs to Review
  - [ ] Lab 1 - Respiratory System 
  - [ ] Lab 1 - Respiratory System Quiz
@@ -132,8 +216,8 @@
  - [ ] Lab 4 - Excretory System Quiz
  - [ ] Lab 5 - Fetal Pig Dissection  
  - [ ] Lab 5 - Fetal Pig Dissection Quiz
+  - I don't have a copy of this 
  - [ ] Lab 6 - Fetal Pig Dissection #2
- - [ ] Lab 6 - Fetal Pig Dissection #2 Quiz
 * Key Dissection Specimens to Know
 ** Sheep Heart
 ** Pig Kidney
