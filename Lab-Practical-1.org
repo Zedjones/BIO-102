@@ -41,8 +41,8 @@
    or reddish coloration 
 * Key Slides to Review 
 ** Respiratory System
-  - [ ] Lungs/Alveoli - Healthy and Unhealthy (Lymphoma, Carcinoma)
-  - [ ] Trachea (Pseudostratified Ciliated Columnar Epithelial Tissue)
+  - [X] Lungs/Alveoli - Healthy and Unhealthy (Lymphoma, Carcinoma)
+  - [X] Trachea (Pseudostratified Ciliated Columnar Epithelial Tissue)
 ** Circulatory System
   - [ ] Blood (Human, Reptilian and Amphibian)
   - [ ] Cardiac Muscle
@@ -59,34 +59,34 @@
   - [X] Intercostal muscles
    - Contract during inhalation, relax during exhalation
    - Located between the ribs
-  - [ ] Lungs
+  - [X] Lungs
    - Located on both sides of the chest
-   - Has branching bronchi within it 
+   - Has branching bronchi within it
    - Gas exchange with the outside air, takes in O2 to the blood and outputs
      CO2
   - [X] Nasal Cavity
    - Warms, moisturrizes, and filters air entering the body before it reaches
      the lungs 
    - Located within the nose, lined with hairs
-  - [ ] Pharynx
+  - [X] Pharynx
    - The membrane-lined cavity behind nose and mouth, connecting them to the
      esophagus 
   - [X] Glottis
    - Opening which leads to the larynx, covered by the epiglottis
   - [ ] Larynx
    - The muscular organ forming an air passage to the lungs; the voice box
-  - [ ] Trachea
+  - [X] Trachea
    - The "windpipe", rigid with prominent cartilaginous rings
-   - Without these rings, it would collapse each time the pressure dropped 
-  - [ ] Bronchi
-   - Air passage that diverge from the windpipe, located in the lungs 
-  - [ ] Alveoli
+   - Without these rings, it would collapse each time the pressure dropped
+  - [X] Bronchi
+   - Air passage that diverge from the windpipe, located in the lungs
+  - [X] Alveoli
    - Tiny air sacs located at the end of bronchioles which allow for direct
      diffusion (gas exchange)  
-  - [ ] Goblet Cells
+  - [X] Goblet Cells
    - Located in the respiratory and intestinal tracts, secrete the main
      component of mucus.
-  - [ ] Pseudostratified Ciliated Columnar Epithelium
+  - [X] Pseudostratified Ciliated Columnar Epithelium
    - Tissues which have goblet cells on them, located in the nasal cavity,
      trachea, bronchi, and bronchioles
   - [ ] Diaphragm
@@ -94,23 +94,23 @@
      expansion. 
    - Contract during inhalation, relax during exhalation
 ** Cardiovascular System
-  - [ ] Bicuspid vs Tricuspid Valves 
+  - [X] Bicuspid vs Tricuspid Valves
    - Bicuspid has two flaps (between left atrium and ventricle)
    - Tricuspid has three flaps (between right atrium and ventricle)
-  - [ ] Blood Vessels - Tissues
-  - [ ] Flow of blood through the body
+  - [X] Blood Vessels - Tissues
+  - [X] Flow of blood through the body
    - Superior Vena Cava ->  Right Atrium -> Right Ventricle -> Pulmonary
      Artery -> Lungs -> Pulmonary Vein -> Left Atrium -> Left Ventricle ->
      Aorta -> Arteries -> Arterioles -> Capillaries -> Venules -> Veins     
-  - [ ] Left Atrium
+  - [X] Left Atrium
    - Holding chamber for blood coming from the heart, goes through bicuspid
      valve to get to left ventricle 
-  - [ ] Right Atrium
+  - [X] Right Atrium
    - Holding chamber for blood coming from the body, goes through tricuspid
      valve to get to right ventricle 
-  - [ ] Left Ventricle
+  - [X] Left Ventricle
    - Pumps blood through the aortic valve (semilunar) into the aorta
-  - [ ] Right Ventricle
+  - [X] Right Ventricle
    - Pumps blood through the pulmonary valve (semilunar) through the pulmonary artery to
      the lungs 
   - [X] Aorta
@@ -123,8 +123,8 @@
   - [X] Vena Cava
    - Takes blood from the veins and sends it in to the right atrium
 ** Excretory-Urinary System
-  - [ ] 2 Major Functions
-   - Filtering and processing waste and excreting waste 
+  - [X] 2 Major Functions
+   - Filtering and processing waste and excreting waste
   - [ ] Ureter
    - Basic functional and structural unit of the kidney 
   - [ ] Bladder
@@ -208,10 +208,13 @@
     - [X] Horns of Uterus
     - [X] Vagina
 * Labs to Review
- - [ ] Lab 1 - Respiratory System 
- - [ ] Lab 1 - Respiratory System Quiz
- - [ ] Lab 2 - Cardiovascular System 
- - [ ] Lab 2 - Cardiovascular System Quiz
+ - [X] Lab 1 - Respiratory System
+  - IRV = VC - (TV - ERV)
+ - [X] Lab 1 - Respiratory System Quiz
+  - Two essential characteristics of gas exchange surface are being moist and
+    thin
+ - [X] Lab 2 - Cardiovascular System
+ - [X] Lab 2 - Cardiovascular System Quiz
  - [ ] Lab 3 - Digestive System 
  - [ ] Lab 3 - Digestive System Quiz
  - [ ] Lab 4 - Excretory System 
