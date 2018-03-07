@@ -135,14 +135,14 @@
   - [ ] Urethra
    - An opening through with urine empties at the the bottom of the bladder  
 ** Fetal Pig Dissection
-  - [ ] Dorsal 
-   - The back of the pig, towards the back 
-  - [ ] Ventral
-   - The front of the pig, stomach side 
-  - [ ] Anterior 
+  - [X] Dorsal
+   - The back of the pig, towards the back
+  - [X] Ventral
+   - The front of the pig, stomach side
+  - [X] Anterior
    - Nearer to the front, especially situated in the front of the body or
      nearer the head   
-  - [ ] Posterior 
+  - [X] Posterior
    - Further back in position; of or nearer the rear or hind end
 *** Parts to Know
    - [X] Right and Left Atria
@@ -151,66 +151,62 @@
    - [X] Pericardial Sac
    - [X] Jugular Veins
     - Four of these 
-   - [ ] Carotid Arteries 
+   - [X] Carotid Arteries
+    - Vessel closest to the trachea
    - [X] Coronary Arteries
     - On the heart itself
-   - [ ] Superior Vena Cava 
+   - [X] Superior Vena Cava
    - [X] Inferior Vena Cava
-   - [ ] Pulmonary Trunk
+   - [X] Pulmonary Trunk
    - [X] Aorta
    - [X] Umbilical Cord
    - [X] Glottis
    - [X] Epiglottis
-   - [ ] Larynx 
-   - [ ] Trachea 
-   - [ ] Pleural Cavity
-   - [ ] Bronchi
+   - [X] Larynx
+   - [X] Trachea
    - [X] Lungs
-   - [ ] Diaphragm
-    - Structure directly beneath the lungs 
+   - [X] Diaphragm
+    - Structure directly beneath the lungs
    - [X] Hard Palate
    - [X] Soft Palate
-   - [ ] Thymus Gland 
-   - [ ] Thyroid Gland
-   - [ ] Peritonium
-    - Holds the kidneys in place 
-   - [ ] Hepatic Artery
-   - [ ] Hepatic Vein 
-   - [ ] Mesenteric Ateries
-   - [ ] Mesenteric Vein
-   - [ ] Renal Artery
-   - [ ] Renal Vein
-   - [ ] Celiac Artery 
-   - [ ] Celiac Vein 
-   - [ ] Spleen 
-   - [ ] Liver
-   - [ ] Stomach
-   - [ ] Small Intestine
-    - Duodenum, Jejunum, Ileum
-   - [ ] Gall Bladder
-   - [ ] Pancreas
-   - [ ] Mesentery
-   - [ ] Ureter
-   - [ ] Kidneys
-   - [ ] Urethra
-   - [ ] Urinary Bladder
+   - [X] Thymus Gland
+    - Pulled back flaps in neck surrounding thyroid
+   - [X] Thyroid Gland
+    - Small, brown oval in neck
+   - [X] Mesenteric Ateries
+    - Branch off of dorsal aorta
+   - [X] Mesenteric Vein
+    - Branch off of dorsal aorta
+   - [X] Spleen
+    - Kind of looks like a lung next to the liver
+   - [X] Liver
+   - [X] Stomach
+    - Looks like eggs
+   - [X] Small Intestine
+    - [X] Duodenum, Jejunum, Ileum
+   - [X] Gall Bladder
+    - Attached to the liver
+   - [X] Large Intestine
+   - [X] Pancreas
+    - Looks like little clumped circles next to stomach
+   - [X] Ureter
+    - Looks like tube coming out of kidney 
+   - [X] Kidneys
+   - [X] Urethra
+   - [X] Urinary Bladder
 **** Male
     - [X] Scrotal Sac
     - [X] Urogenital Opening
      - Right underneath umbilical cord for males
-    - [ ] Penis
-    - [ ] Testes
-    - [ ] Epididymis
-    - [ ] Spermatic Cord
-    - [ ] Genital Papillae
+    - [X] Penis
 **** Female
-    - [ ] Mammary Papillae
     - [X] Urogenital Papillae
     - [X] Urogenital Opening
-    - [ ] Ovaries
-    - [ ] Oviducts
-    - [ ] Horns of Uterus
-    - [ ] Vagina 
+    - [X] Ovaries
+    - [X] Oviducts
+     - Small spots on the ovaries
+    - [X] Horns of Uterus
+    - [X] Vagina
 * Labs to Review
  - [ ] Lab 1 - Respiratory System 
  - [ ] Lab 1 - Respiratory System Quiz
@@ -221,8 +217,8 @@
  - [ ] Lab 4 - Excretory System 
  - [ ] Lab 4 - Excretory System Quiz
  - [X] Lab 5 - Fetal Pig Dissection
- - [ ] Lab 5 - Fetal Pig Dissection Quiz
-  - I don't have a copy of this 
+ - [X] Lab 5 - Fetal Pig Dissection Quiz
+  - I don't have a copy of this
  - [ ] Lab 6 - Fetal Pig Dissection #2
 * Key Dissection Specimens to Know
 ** Sheep Heart
