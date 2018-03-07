@@ -1,42 +1,42 @@
 * Key Reagents to Know
-** Trypsin
-  - Aids in the digestion of proteins, produced in the pancreas 
-  - Further digestion of proteins after initial breakdown by pepsin
-** Amylase
-  - Aids in the digestion of starch and glycogen, produed in the pancreas
-  - Breaks them down into disaccharide maltose molecules
-** Bile
-*** Emulsifies lipids and is produced in the liver, stored in the gall blader
-   - Emulsification is the breakdown of fat globules in the dueodenum into tiny
+  - [ ] Trypsin
+   - Aids in the digestion of proteins, produced in the pancreas 
+   - Further digestion of proteins after initial breakdown by pepsin
+  - [ ] Amylase
+   - Aids in the digestion of starch and glycogen, produed in the pancreas
+   - Breaks them down into disaccharide maltose molecules
+  - [ ] Bile
+   - Emulsifies lipids and is produced in the liver, stored in the gall blader
+    - Emulsification is the breakdown of fat globules in the dueodenum into tiny
    droplets, giving more surface area for lipase from the pancrease to work
    on assisted by the bile salts
-** Lipase
-  - Once lipids are emulsified, they are broken down into their subunits,
+  - [ ] Lipase
+   - Once lipids are emulsified, they are broken down into their subunits,
   which can be absorbed into the body, by lipase
-** Gelatin
-  - A protein that is capable of taking up large amounts of water, causing it
+  - [ ] Gelatin
+   - A protein that is capable of taking up large amounts of water, causing it
   to swell and form a Jell-O like substance
-** Hydrochloric Acid
-  - Reagent which increases acidity and helps certain enzymatic activity, such
+  - [ ] Hydrochloric Acid
+   - Reagent which increases acidity and helps certain enzymatic activity, such
   as pepsin 
-** Sodium Hydroxide
-  - Reagent which increases pH and helps certain enzymatic activity, such as
+  - [ ] Sodium Hydroxide
+   - Reagent which increases pH and helps certain enzymatic activity, such as
   trypsin
-** Biuret Solution
-  - Used to test for the presence of proteins, is normally blue and turns
+  - [ ] Biuret Solution
+   - Used to test for the presence of proteins, is normally blue and turns
   purple in the presence of peptide bonds (from proteins)
-** Iodine
-  - Used to test for the presence of starch, to determine whether digestion has
+  - [ ] Iodine
+   - Used to test for the presence of starch, to determine whether digestion has
   occurred. No starch digestion = golden-brown color, starch digestion =
   red-brown, blue, black
-** Starch Solution
-  - In our lab, pancreatic extract which contains starch, a polysaccharide
-** Phenolphthalein
-  - Used as a pH indicator, turns pink at pH 10. As digestion occurs and fatty
+  - [ ] Starch Solution
+   - In our lab, pancreatic extract which contains starch, a polysaccharide
+  - [ ] Phenolphthalein
+   - Used as a pH indicator, turns pink at pH 10. As digestion occurs and fatty
   acids are released, will become colorless, indicating that the solution is
   now only slightly basic (pH 8) 
-** Benedict's Solution
-  - Used to test for the presence of maltose. No maltose = blue, small amount
+  - [ ] Benedict's Solution
+   - Used to test for the presence of maltose. No maltose = blue, small amount
   of maltose = greenish, moderate amount = yellowish, large amount = orange
   or reddish coloration 
 * Key Slides to Review 
