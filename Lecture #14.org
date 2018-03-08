@@ -1,7 +1,7 @@
 * Chapter 29 - The Senses 
 ** The vision pathway from light source to the optic nerve
   - The fovea centralis on the retina contains only cones and is where vision
-   is most acute (focused) 
+    is most acute (focused) 
   - NOTE: no photoreceptors at point where nerve exits eyeball = blind spot 
 * Chapter 26 - The Endocrine System 
 ** Chemical and electrical signals coordinate body functions
@@ -28,3 +28,4 @@
   - Positive feedback - stimulates process to continue 
    - Example:
     - Oxytocin and child birth 
+     - Helps with utreus contractions 
