@@ -11,7 +11,7 @@
    - usually carried in the blood 
    - responsible for specific changes in target cells 
   - Hormones may also be released from specialized nerve cells called
-  neurosecretory cells 
+    neurosecretory cells 
 ** Stages of Hormone Signalling
   - Receptions of the signal 
    - occurs when a hormone binds to a specific receptor protein on or in the
