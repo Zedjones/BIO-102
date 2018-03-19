@@ -66,4 +66,25 @@
        repolarization of the membrane
        - Voltage initially drops too far until the pumps kick in 
     - Frequency of action potential changes, not the strength  
+   - Synapses
+    - Electrical
+     - Current flows directly from a neuron through gap junctions 
+    - Chemical
+     - The sending cell secretes a chemical signal, a neurotransmitter, which
+       crosses the synaptic cleft. 
+       - The neurotransmitters are stored in the synpatic vesicles
+        - Voltage gated calcium channels opening from action potential cause
+          the vesicle to fused with the presynaptic membrane and release the
+          neurotransmitter
+         - The neurotransmitter bind to receptor sites on the postsynaptic
+           neuron 
+           - Depending on the neurotransmitter, the receiving neurons might
+             get excited or inhibited
+             - Excitatory makes the inside of the neuron more positive
+               (depolarization)
+             - Inhibitory makes the inside of the neuron more negative
+               (hyperpolarization)
+     - The neurotransmitter binds to a specific receptor on the surface of
+       the receiving cell
+     - These enable more complex information to be processed 
 * Chapter 29 - The Senses
