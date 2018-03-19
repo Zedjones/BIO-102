@@ -21,10 +21,24 @@
    - Stops from a negative feedback loop detected by hypothalamus and
      pituitary gland
   - Lipid-soluble hormones
-   - Cross the membranes of target cells, binds in the nucleus  
+   - Cross the membranes of target cells, binds to receptors in the nucleus  
+  - Water-soluble hormones
+   - Receptors on outside of membranes  
   - Thyroid functions
    - Maintaining blood pressure
    - Promoting the growth of tissues
    - Triggering the secretion of digestive juices 
-* Chapter 28 - The Nervous System 
+* Chapter 28 - The Nervous System
+  - Peripheral Nervous System
+   - Sensory Division (Afferent)
+    - Picks up sensory stimuli 
+   - Motor Divison (Efferent)
+    - Sends directions from your brain to muscles and glands
+    - Somatic Nervous System
+    - Autonomic Nervous System
+     - Sympathetic Division 
+     - Parasympathetic Division 
+  - Glial Cells 
+   - Provide support, nutrition, insulation, and help with signal
+     transmission in the nervous system
 * Chapter 29 - The Senses
