@@ -1,0 +1,30 @@
+* Chapter 26 - The Endocrine System
+  - Slower than the nervous system, chemical messages
+   - Produce longer effects
+  - Master gland is pituitary 
+  - Hormone can only trigger reaction in target cells
+   - These cells have receptors
+   - Not one-to-one
+  - Pancreas
+   - Beta cells release insulin
+   - Alpha cells release glucagon  
+  - Graves' Disease
+   - Overproduction of thyroid hormones, hyperthyroidism
+   - Auto-immune disorders create antibody that mimic the thryoid stimulating
+     hormones 
+  - Hypothalamus-pituitary-thyroid axis
+   - Sets the thyroid gland in motion to maintain homeostasis 
+   - Hypothalamus triggers the anterior pituitary which releases thyroid
+     stimulating hormone
+    - This hormone, if you were cold, would stimulate the cells to burn
+      glucose (break it down) to produce ATP and increase your temperature
+   - Stops from a negative feedback loop detected by hypothalamus and
+     pituitary gland
+  - Lipid-soluble hormones
+   - Cross the membranes of target cells, binds in the nucleus  
+  - Thyroid functions
+   - Maintaining blood pressure
+   - Promoting the growth of tissues
+   - Triggering the secretion of digestive juices 
+* Chapter 28 - The Nervous System 
+* Chapter 29 - The Senses
