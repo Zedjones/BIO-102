@@ -8,37 +8,37 @@
   - [X] Bile
    - Emulsifies lipids and is produced in the liver, stored in the gall blader
     - Emulsification is the breakdown of fat globules in the dueodenum into tiny
-    droplets, giving more surface area for lipase from the pancreas to work
-    on assisted by the bile salts
+      droplets, giving more surface area for lipase from the pancreas to work
+      on assisted by the bile salts
   - [X] Lipase
    - Once lipids are emulsified, they are broken down into their subunits,
-   which can be absorbed into the body, by lipase
+     which can be absorbed into the body, by lipase
   - [X] Gelatin
    - A protein that is capable of taking up large amounts of water, causing it
-   to swell and form a Jell-O like substance
+     to swell and form a Jell-O like substance
   - [X] Hydrochloric Acid
    - Reagent which increases acidity and helps certain enzymatic activity, such
-   as pepsin 
+     as pepsin 
   - [X] Sodium Hydroxide
    - Reagent which increases pH and helps certain enzymatic activity, such as
-   trypsin
+     trypsin
   - [X] Biuret Solution
    - Used to test for the presence of proteins, is normally blue and turns
-   purple in the presence of peptide bonds (from proteins)
+     purple in the presence of peptide bonds (from proteins)
   - [X] Iodin
    - Used to test for the presence of starch, to determine whether digestion has
-   occurred. No starch digestion = golden-brown color, starch digestion =
-   red-brown, blue, black
+     occurred. No starch digestion = golden-brown color, starch digestion =
+     red-brown, blue, black
   - [X] Starch Solution
    - In our lab, pancreatic extract which contains starch, a polysaccharide
   - [X] Phenolphthalein
    - Used as a pH indicator, turns pink at pH 10. As digestion occurs and fatty
-   acids are released, will become colorless, indicating that the solution is
-   now only slightly basic (pH 8) 
+     acids are released, will become colorless, indicating that the solution is
+     now only slightly basic (pH 8) 
   - [X] Benedict's Solution
    - Used to test for the presence of maltose. No maltose = blue, small amount
-   of maltose = greenish, moderate amount = yellowish, large amount = orange
-   or reddish coloration 
+     of maltose = greenish, moderate amount = yellowish, large amount = orange
+     or reddish coloration 
 * Key Slides to Review 
 ** Respiratory System
   - [X] Lungs/Alveoli - Healthy and Unhealthy (Lymphoma, Carcinoma)

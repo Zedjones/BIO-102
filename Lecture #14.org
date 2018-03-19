@@ -1,0 +1,31 @@
+* Chapter 29 - The Senses 
+** The vision pathway from light source to the optic nerve
+  - The fovea centralis on the retina contains only cones and is where vision
+    is most acute (focused) 
+  - NOTE: no photoreceptors at point where nerve exits eyeball = blind spot 
+* Chapter 26 - The Endocrine System 
+** Chemical and electrical signals coordinate body functions
+  - Hormones are 
+   - chemical signals
+   - produced by endocrine glands 
+   - usually carried in the blood 
+   - responsible for specific changes in target cells 
+  - Hormones may also be released from specialized nerve cells called
+    neurosecretory cells 
+** Stages of Hormone Signalling
+  - Receptions of the signal 
+   - occurs when a hormone binds to a specific receptor protein on or in the
+     target cell 
+  - Signal transduction 
+   - converts the  signal from one form to another 
+  - Response 
+   - change in the cell's behavior
+** Homeostatic Mechanisms Hormone Control
+  - Negative feedback - shuts down the system; regulatory process 
+   - Example:
+    - high b.g. levels = release of insulin = blood glucose decreases
+    - low b.g. levels = insulin secretion stops 
+  - Positive feedback - stimulates process to continue 
+   - Example:
+    - Oxytocin and child birth 
+     - Helps with utreus contractions 
