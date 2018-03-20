@@ -88,3 +88,34 @@
        the receiving cell
      - These enable more complex information to be processed 
 * Chapter 29 - The Senses
+ - Taste and Smell
+  - Both of these use chemoreceptors
+  - Olfactory epithelium is the beginning of smell sensations
+   - Olfactory bulbs have a direct connection to the limbic system  
+  - All tastes register in all parts of the tongue
+   - Taste buds sit behind the epithelial tissue of the tongue
+    - Gustatory cells
+     - Gustatory hairs detect tastes and create an action potential  
+    - Basal cells
+     - Replace gustatory cells every week 
+ - Hearing and Balance
+  - Vibrations cause air particles to vibrate, initiating sound waves that
+    carry vibrations through the air
+  - Sounds frequency is the number of waves that pass a certain point in a
+    given time frame 
+    - This changes the pitch 
+  - Amplitude is the different between pressures created in the air by a
+    sound wave
+    - This changes the volume 
+  - *How the ear functions is not included in this study guide*
+  - Balance is a result of fluid moving around the semicircular canals, one
+    for each of the 3 dimensional planes
+    - Utricle and Saccule have hairs that read the movement of this fluid,
+      allowing the brain to create a 3 dimensional picture of how the head is
+      moving 
+    - Sensory conflict occurs in a boat, for example, when the vestibular
+      senses tell your brain that you're moving up and down but the eyes tell
+      the brain that you're sitting still
+      - This leads to motion sickness 
+ - Vision
+  -  
