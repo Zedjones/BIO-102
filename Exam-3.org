@@ -4,7 +4,7 @@
   - Master gland is pituitary 
   - Hormone can only trigger reaction in target cells
    - These cells have receptors
-   - Not one-to-one
+   - Hormones only have one type of target cell
   - Pancreas
    - Beta cells release insulin
    - Alpha cells release glucagon  
