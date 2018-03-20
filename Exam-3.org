@@ -118,4 +118,12 @@
       the brain that you're sitting still
       - This leads to motion sickness 
  - Vision
-  -  
+  - Frequency of a light wave determines hue, amplitude relates to brightness     
+  - Sclera is the very outside of the eye 
+  - Cornea -> pupil -> lens -> retina
+  - Photoreceptors don't generate action potentials, but do transduce
+    electromagnetic waves to electrical signals
+    - Cones
+     - Detect fine details and color (R, G, and B cones)
+    - Rods
+     - Detect grayscale black and white 
