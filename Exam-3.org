@@ -27,7 +27,13 @@
   - Thyroid functions
    - Maintaining blood pressure
    - Promoting the growth of tissues
-   - Triggering the secretion of digestive juices 
+   - Triggering the secretion of digestive juices
+  - The gonads secrete sex hormones in response to secretion of
+    follicle-stimulating hormone (FSH) and luteinizing hormone (LH) by the
+    anterior pituitary
+  - Nerve signals travel from the hypothalamus to the spinal cord to the
+    adrenal medulla, which secretes epinephrine and norepinephrine during the
+    "fight-or-flight" response  
 * Chapter 28 - The Nervous System
   - Peripheral Nervous System
    - Sensory Division (Afferent)
@@ -41,6 +47,7 @@
   - Glial Cells
    - Provide support, nutrition, insulation, and help with signal
      transmission in the nervous system
+     - *Much more of these than neurons*
    - Schwann Cells
     - Produce the myelin sheath
   - Neural Pathway
