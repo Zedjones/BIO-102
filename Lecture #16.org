@@ -1,0 +1,8 @@
+* Basics of Photosynthesis
+ - In photosynthesis:
+  - light energy is captured by chlorophyll molecules to boost the energy of
+    electrons 
+  - light energy is converted to chemical energy 
+   - chemical energy is stored in the chemical bonds of sugar 
+ - Occurs in two stages:
+  - Light Dependent and Light Independent (Dark or Calvin Cycle)
